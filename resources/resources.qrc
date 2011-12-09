@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>blogspot.png</file>
+        <file>facebook.png</file>
+        <file>i_pause.svg</file>
+        <file>tb_back.svg</file>
+        <file>tb_help.svg</file>
+        <file>tb_random.svg</file>
+        <file>tb_repeat.svg</file>
+        <file>twitter.png</file>
+        <file>VLCRemote.svg</file>
+        <file>volume.png</file>
+        <file>volumeM.png</file>
+    </qresource>
+</RCC>
